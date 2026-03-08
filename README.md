@@ -35,6 +35,7 @@ nav a:hover{color:#fff}
 <a href="#about">About</a>
 <a href="#projects">Projects</a>
 <a href="#future">Future Apps</a>
+<a href="#privacy">Privacy</a>
 </nav>
 </header>
 
@@ -82,6 +83,34 @@ nav a:hover{color:#fff}
 <div>© 2026 Zoanthopy</div>
 <div>Building the future of collector technology.</div>
 </footer>
+
+<section id="privacy" class="section">
+<h2>Privacy Policy</h2>
+<p>Last updated: 2026</p>
+
+<p>Zoanthopy respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard information when you visit our website or use our applications, including TCG Radar.</p>
+
+<h3 style="margin-top:30px">Information We Collect</h3>
+<p>We may collect basic information such as email addresses, account details, and app usage data when you create an account, subscribe to premium services, or interact with our applications. We may also collect anonymous analytics data to improve performance and user experience.</p>
+
+<h3 style="margin-top:30px">How We Use Information</h3>
+<p>The information we collect may be used to operate our services, improve our products, communicate important updates, provide customer support, and analyze usage trends that help us build better tools for collectors.</p>
+
+<h3 style="margin-top:30px">Third‑Party Services</h3>
+<p>Our applications may display data sourced from third‑party marketplaces and services. These services may have their own privacy policies and terms. Zoanthopy is not responsible for how those external platforms manage user data.</p>
+
+<h3 style="margin-top:30px">Advertising</h3>
+<p>Free versions of our apps may display advertisements. Advertising partners may use cookies or similar technologies to provide relevant ads and measure ad performance.</p>
+
+<h3 style="margin-top:30px">Data Security</h3>
+<p>We take reasonable security measures to protect your information from unauthorized access, misuse, or disclosure.</p>
+
+<h3 style="margin-top:30px">Changes to This Policy</h3>
+<p>Zoanthopy may update this Privacy Policy periodically. Any updates will be posted on this page.</p>
+
+<h3 style="margin-top:30px">Contact</h3>
+<p>If you have questions about this Privacy Policy, you can contact us through future support channels that will be listed on this website.</p>
+</section>
 
 </body>
 </html>
